@@ -387,7 +387,7 @@
       "idf": "",
       "netlist": "modelh.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "modelh.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
