@@ -4266,7 +4266,7 @@
     (property "Datasheet" "~" (id 3) (at 36.83 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C269433" (id 4) (at 36.83 69.85 0)
+    (property "LCSC" " C26098" (id 4) (at 36.83 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 38db5b48-939d-4b67-9b6a-7ec1ef184750))
