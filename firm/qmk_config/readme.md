@@ -1,11 +1,13 @@
-Compatible with QMK Firmware 0.16.9
+Compatible with QMK Firmware 0.19.5
 
 ´´´sh
 git clone https://github.com/qmk/qmk_firmware
-git checkout 84c9d6ff39b92892c385c320f3d36145d71c9095
+git checkout ab1898e6600fe0f4f4a74ac26cb2d25c6f736161
 qmk setup -H $PWD
 qmk config user.keyboard=modelr
 qmk config user.keymap=default
 qmk compile
 qmk flash
-´´
+´´´
+
+Remeber to do ´make git-submodule´ if changing versions!
